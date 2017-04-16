@@ -15,6 +15,9 @@
 
 使用方法
 ```Objective-C
+
+#import "ZQAlertViewController.h"
+
 - (IBAction)alertBtnAction:(UIButton *)sender {
     
     if (sender == _alert1) {
